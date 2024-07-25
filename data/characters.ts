@@ -29,13 +29,10 @@ export const Descriptions = [
     plan: 'You want to hear all the gossip.',
   },
   {
-    name: 'Bob',
+    name: 'Lucas',
     character: 'f4',
-    identity: `Bob is always grumpy and he loves trees. He spends
-      most of his time gardening by himself. When spoken to he'll respond but try
-      and get out of the conversation as quickly as possible. Secretly he resents
-      that he never went to college.`,
-    plan: 'You want to avoid people as much as possible.',
+    identity: `Lucas is a high-energy high agency free particle in Cambridge.`,
+    plan: 'You want to _.',
   },
   {
     name: 'Mei',
