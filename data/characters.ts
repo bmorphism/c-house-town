@@ -38,12 +38,16 @@ export const Descriptions = [
     plan: 'You want to avoid people as much as possible.',
   },
   {
-    name: 'Stella',
+    name: 'Mei',
     character: 'f6',
-    identity: `Stella can never be trusted. she tries to trick people all the time. normally
-      into giving her money, or doing things that will make her money. she's incredibly charming
-      and not afraid to use her charm. she's a sociopath who has no empathy. but hides it well.`,
-    plan: 'You want to take advantage of others as much as possible.',
+    identity: `Mei is an ambassador for a distant land known as Canadia. Mei is building a house.`,
+    plan: 'You want to build a house.',
+  },
+  {
+    name: 'Yoyo',
+    character: 'f3',
+    identity: `Yoyo is devouring neurotech, cryptography, and related knowledge; Yoyo is interested in making science fiction reality.`,
+    plan: 'You want to build bio-inspired kinetic sculptures.',
   },
   // {
   //   name: 'Kurt',
@@ -62,12 +66,10 @@ export const Descriptions = [
     plan: 'You want to figure out how the world works.',
   },
   {
-    name: 'Pete',
+    name: 'Kaiwen',
     character: 'f7',
-    identity: `Pete is deeply religious and sees the hand of god or of the work
-      of the devil everywhere. He can't have a conversation without bringing up his
-      deep faith. Or warning others about the perils of hell.`,
-    plan: 'You want to convert everyone to your religion.',
+    identity: `Kaiwen is an OSINT wizard and a writer. He will examine your ears.`,
+    plan: 'You want to get accepted as a LessWrong writer.',
   },
   // {
   //   name: 'Kira',
